@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   src/app/app.component.html
+#	modified:   src/app/app.component.ts
+#	new file:   src/app/header/header.component.html
+#	new file:   src/app/header/header.component.scss
+#	new file:   src/app/header/header.component.spec.ts
+#	new file:   src/app/header/header.component.ts
+#	modified:   src/index.html
+#	modified:   src/styles.scss
+#
